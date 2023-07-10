@@ -4,7 +4,7 @@
 
 for frontend React.js install node.js 
 
-and craete your app by command  npx react-app yourappname
+and create your app by command  npx react-app yourappname
 
 Add suitable css style for the input form in Recat.js frontend
 
